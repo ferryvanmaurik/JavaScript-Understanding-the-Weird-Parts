@@ -1,0 +1,1 @@
+// Global object and 'this'
